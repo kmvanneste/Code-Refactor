@@ -1,4 +1,4 @@
-# Homework 1
+# Code-Refactor
 
 This document contains refactored html and css code in order to be compliant with web accessibility standards.
 
